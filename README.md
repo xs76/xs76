@@ -3,9 +3,3 @@
 </p>
 
 <h1 align="center">Hi! I'm xs</h1>
-
-<h2 align="center">Developer at</h2>
-
-<p align="center">
-  <b>Mochi</b> - Design<br>
-</p>
