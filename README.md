@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lily and I'm a Website Developer, from Surrey, BC</p>
+<p align="left">My name is Fred and I'm a Website Developer, from Surrey, BC</p>
 
 ###
 
