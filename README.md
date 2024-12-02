@@ -56,12 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xs76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/xs76/xs76/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/31vrdd3xitdlplqc57kexnqdkqpm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vrdd3xitdlplqc57kexnqdkqpm&count=5" alt="Spotify recently played"  />
