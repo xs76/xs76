@@ -20,6 +20,33 @@
   <a href="mailto:xs@mochig.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+  <a href="https://www.behance.net/lilyreid2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://codesandbox.io/u/xs76" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
+  </a>
+  <a href="https://codepen.io/xsbd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  </a>
+  <a href="https://dev.to/xs76" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="https://dribbble.com/xs76" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/xs003" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://linktr.ee/xsbd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+  <a href="https://medium.com/@xsbd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://unsplash.com/@xsbd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="unsplash logo"  />
+  </a>
 </div>
 
 ###
