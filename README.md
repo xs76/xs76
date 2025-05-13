@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xs76&theme=vue-dark&hide_border=false" alt="xs76's Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xs76&theme=vue-dark&hide_border=true" alt="xs76's Streak" />
 </p>
+
+
 
 
 ###
@@ -50,6 +52,7 @@
   </a>
 </div>
 
+
 ###
 
 <div align="center">
@@ -58,59 +61,39 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Lily from Surrey, British Columbia<br><br>- 🔭 I’m working as pet-project developer<br>- 📚 I'm currently learning Linux<br>- ⚡ In my free time I make random cool things</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo"  />
 </div>
 
-###
 
-
-###
