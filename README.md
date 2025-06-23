@@ -2,7 +2,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xs76&theme=vue-dark&hide_border=true" alt="xs76's Streak" />
 </p>
 
-
+![xs76's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xs76&theme=vue-dark&hide_border=true)
 
 ###
 
